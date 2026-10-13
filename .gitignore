@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dataset (large raw files, not pushed to GitHub)
+data/
